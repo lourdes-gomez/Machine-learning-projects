@@ -1,5 +1,5 @@
 # DATA SCIENCE PORTFOLIO
-A repository with my machine learning projects
+A repository with my machine learning projects <br>
 The projects are written in Python (Jupyter Notebook)
 
 ## Projects <br>
